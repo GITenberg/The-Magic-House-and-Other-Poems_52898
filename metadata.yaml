@@ -1,0 +1,27 @@
+_repo: The-Magic-House-and-Other-Poems_52898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Duncan Campbell
+    alias: Scott, D. C. (Duncan Campbell)
+    birthdate: 1862
+    deathdate: 1947
+    gutenberg_agent_id: '25498'
+    url: http://www.gutenberg.org/2009/agents/25498
+    wikipedia: http://en.wikipedia.org/wiki/Duncan_Campbell_Scott
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2016-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian poetry -- 19th century'
+- GITenberg
+title: The Magic House, and Other Poems
+url: http://www.gutenberg.org/ebooks/52898
